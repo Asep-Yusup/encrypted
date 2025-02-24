@@ -30,11 +30,11 @@
   $ pip install bs4
   $ git clone https://github.com/Asep-Yusup/encrypted.git
   $ cd encrypted
-  $ python ence.py
+  $ python encex.py
   ```
   - Running on Termux
 
   ```
   $ cd encrypted
-  $ python ence.py
+  $ python encex.py
   ```
